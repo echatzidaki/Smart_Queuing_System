@@ -16,14 +16,14 @@ Given real-world scenarios to build a queuing system, I use the knowledge of har
 
 Three different scenarios that depict real-world problems based on different sectors where edge devices are typically deployed.
 
-**Scenario 1: Manufacturing Sector**
-[scenarios/manufacturing.md](scenario/manufacturing.md)
+**Scenario 1: Manufacturing Sector** - 
+[manufacturing](scenario/manufacturing.md)
 
-**Scenario 2: Retail Sector**
-[scenarios/retail.md](scenarios/retail.md)
+**Scenario 2: Retail Sector** - 
+[retail](scenarios/retail.md)
 
-**Scenario 3: Transportation Sector**
-[scenarios/transportation.md](scenarios/transportation.md)
+**Scenario 3: Transportation Sector** - 
+[transportation](scenarios/transportation.md)
 
 ## Deployment and Development steps
 

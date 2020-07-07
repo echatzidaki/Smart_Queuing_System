@@ -41,5 +41,5 @@ Three different scenarios that depict real-world problems based on different sec
 
 ## Authors
 
-* **Udacity** - *Intel® Edge AI for IoT Developers 
+* **Udacity** - * Intel® Edge AI for IoT Developers 
 * **Eleftheria Chatzidaki** 
